@@ -1,0 +1,14 @@
+Class: Kitchen
+
+Attributes:
+area (float)
+name_main_chef (string)
+number_fridges (integer)
+staff (array)
+has_ventilation (boolean)
+
+Methods:
+replace_main_chef (changes attribute name_main_chef)
+add_fridge (increases attribute number_fridges)
+hire_new_staff (appends the name of the new staff to the staff array)
+expand_kitchen (increases the area attribute)
