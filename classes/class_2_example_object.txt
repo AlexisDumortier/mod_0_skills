@@ -1,0 +1,13 @@
+Object: cellar1
+
+Attributes:
+ ambient_temperature: 55.1
+ number_shelves: 20
+ wine_collection: {"Moet Chandon": 2014, "Cotes du Rhone": 2012, "Chateau Margot": 1998}
+ renovated: False
+
+Methods:
+ increase_temperature: 55.1 + 2 = 57.1
+ remove_shelve: 20 - 1 = 19
+ add_wine_to_collection {"Moet Chandon": 2014, "Cotes du Rhone": 2012, "Chateau Margot": 1998, "Graves": 2017}
+ renovate: renovated = True
