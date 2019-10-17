@@ -1,0 +1,38 @@
+HOW TO BECOME A TURING STUDENT
+
+1. Submit application to Turing
+  1.1 Access the application page
+    1.1.1 Visit the Turing website
+    1.1.2 Click the "Program" tab at the top of the page
+    1.1.3 Scroll down
+    1.1.4 Click the "Apply now" button next to the program of interest
+  1.2 Log in the application page
+    1.2.1 Click the "Apply now" button
+    1.2.2 Click the platform you want to register with (facebook or github)
+    1.2.3 Enter your credentials
+  1.3 Fill out the application
+    1.3.1 Fill out the "Basic identity and contact information" section
+    1.3.2 Fill out the "Work history" section
+    1.3.3 Prepare for the logic quiz
+      1.3.3.1 go to your local bookstore
+      1.3.3.2 buy an SAT logic game textbook
+      1.3.3.3 go back home
+      1.3.3.4 practice the different types of logic games
+    1.3.4 Take the logic quiz online
+2. Wait for a couple of days
+3. Schedule an interview at Turing
+  3.1 Visit the Turing interview page
+  3.2 Select a suitable time slot
+  3.3 Fill out basic information
+4. Take the interview
+  4.1 Go to Turing on the day of the interview
+  4.2 Answer questions from the interviewer
+  4.3 Complete one logic game in front of the interviewer
+5. Wait for a day
+6. Transfer the deposit to book a seat in a cohort
+
+
+
+  1.2 Submit resume
+2. Take the interview
+3.
