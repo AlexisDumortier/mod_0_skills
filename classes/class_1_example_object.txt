@@ -1,0 +1,14 @@
+Object : kitchen1
+
+Attributes:
+area: 20.5
+name_main_chef: "Frank Gerry"
+number_fridges: 3
+staff: ["Bob Davis", "Steve Brad", "Mark Anderson"]
+has_ventilation: False
+
+Methods:
+replace_main_chef: name_main_chef = "Dave Matthews"
+add_fridge: 3 + 1 = 4
+hire_new_staff: ["Bob Davis", "Steve Brad", "Mark Anderson", "Blake Anderson"]
+expand_kitchen: 20.5 + 5 = 25.5
