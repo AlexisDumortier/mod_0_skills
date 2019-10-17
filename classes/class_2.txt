@@ -1,0 +1,13 @@
+Class: cellar
+
+Attributes:
+ ambient_temperature (float)
+ number_shelves (integer)
+ wine_collection (hash)
+ renovated (boolean)
+
+Methods:
+ increase_temperature (increases temperature attribute)
+ remove_shelve (decreases number_shelves attribute)
+ add_wine_to_collection (appends an element to wine collection attribute)
+ renovate (changes the renovated attribute)
